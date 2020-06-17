@@ -4,9 +4,9 @@ Cuenta con un menu de opciones, Dicho menu consta de 4 opciones 1-Ejercicio_1 / 
 
 
 Ejercicio_1 : 
-[PASO 1 ] : Lo primero que hago es crear una Variable de tipo INT llamada numero y le asigno el valor 100 (Numero maximo de iteraciones).
+[PASO 1 ] : Lo primero que hago es crear una Variable de tipo INT llamada num y le asigno el valor 100 (Numero maximo de iteraciones).
 
-[PASO 2 ] : Creo una variable de tipo INT llamada i el Contador dentro de la iteracion.
+[PASO 2 ] : Creo una variable de tipo INT llamada " i " el Contador dentro de la iteracion.
 
 [PASO 3 ] : Creo un ciclo for  que comienza en 0 y finaliza en 100, dentro de esto pregunto, si en la division de i  / 3  y i / 5 tiene como resto (%)== 0 imprimi " FizzBuzz"  
 si no, si en la division de i/3 tiene como resto (%)==0 imprimi "Fizz" si no, si en la division de i/5 tiene como resto(%)==0 imprimi "Buzz",Si no imprimi i (Numero de la iteracion ).
